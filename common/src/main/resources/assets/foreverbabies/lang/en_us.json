@@ -1,0 +1,7 @@
+{
+  "foreverbabies.config.title": "Config",
+  "foreverbabies.config.namingLock": "NamingLock",
+  "foreverbabies.config.namingLock.tooltip": "Naming a baby animal will prevent it from growing up",
+  "foreverbabies.config.entityBlacklist": "EntityBlacklist",
+  "foreverbabies.config.entityBlacklist.tooltip": "Entities in this list will not be affected by the mod"
+}

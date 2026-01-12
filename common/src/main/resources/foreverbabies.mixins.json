@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.suel_ki.foreverbabies.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AgeableModMixin",
+    "MobMixin",
+    "TadpoleMixin"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
