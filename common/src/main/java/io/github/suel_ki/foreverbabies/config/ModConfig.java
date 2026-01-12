@@ -6,9 +6,12 @@ import java.util.List;
 
 public class ModConfig extends TinyConfig {
 
-    @Entry(category = "common")
+    @Entry
     public static boolean namingLock = false;
 
-    @Entry(category = "common")
+    @Entry
     public static List<String> entityBlacklist = Lists.newArrayList("foreverbabies:me");
+
+    @Entry
+    public static List<String> nameBlacklist = Lists.newArrayList("foreverbabies");
 }

@@ -3,5 +3,7 @@
   "foreverbabies.config.namingLock": "命名锁定",
   "foreverbabies.config.namingLock.tooltip": "给幼年动物命名将阻止其长大",
   "foreverbabies.config.entityBlacklist": "生物黑名单",
-  "foreverbabies.config.entityBlacklist.tooltip": "此列表中的生物不会受到本模组影响"
+  "foreverbabies.config.entityBlacklist.tooltip": "此列表中的生物不会受到本模组影响",
+  "foreverbabies.config.nameBlacklist": "名称黑名单",
+  "foreverbabies.config.nameBlacklist.tooltip": "此列表中的名称不会受到本模组影响"
 }
