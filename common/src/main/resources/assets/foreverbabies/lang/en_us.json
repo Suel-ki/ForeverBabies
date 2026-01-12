@@ -3,5 +3,7 @@
   "foreverbabies.config.namingLock": "NamingLock",
   "foreverbabies.config.namingLock.tooltip": "Naming a baby animal will prevent it from growing up",
   "foreverbabies.config.entityBlacklist": "EntityBlacklist",
-  "foreverbabies.config.entityBlacklist.tooltip": "Entities in this list will not be affected by the mod"
+  "foreverbabies.config.entityBlacklist.tooltip": "Entities in this list will not be affected by the mod",
+  "foreverbabies.config.nameBlacklist": "NameBlacklist",
+  "foreverbabies.config.nameBlacklist.tooltip": "Names in this list will not be affected by the mod"
 }

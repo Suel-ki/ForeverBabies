@@ -10,6 +10,8 @@ public class AgeUtil {
     public static boolean canPrevent(CustomData data, Mob mob) {
         if (ModConfig.entityBlacklist.contains(EntityType.getKey(mob.getType()).toString()))
             return false;
+        if (mob.hasCustomName() && ModConfig.nameBlacklist.contains(mob.getCustomName().getString()))
+            return false;
         return data.copyTag().getBooleanOr(Constants.TAG_POISONED, false) || (ModConfig.namingLock && mob.hasCustomName());
     }
 }
