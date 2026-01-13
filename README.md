@@ -2,10 +2,10 @@
 
 # Forever Babies
 
-![forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/forge_vector.svg)
-![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)
+[![neoforge](https://cdn.jsdelivr.net/gh/Hyperbole-Devs/vectors@neoforge_badges/assets/cozy/supported/neoforge_vector.svg)](https://modrinth.com/mod/forever-babies/versions?l=neoforge)
+[![fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg)](https://modrinth.com/mod/forever-babies/versions?l=fabric)
 [![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/mod/forever-babies)
-[![Available on Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/forever-babies)
+[![Available on Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://curseforge.com/minecraft/mc-mods/forever-babies)
 
 [![Modrinth](https://img.shields.io/modrinth/dt/forever-babies?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/mod/forever-babies)
 [![CurseForge](https://cf.way2muchnoise.eu/full_1427124_downloads.svg)](https://curseforge.com/minecraft/mc-mods/forever-babies)
