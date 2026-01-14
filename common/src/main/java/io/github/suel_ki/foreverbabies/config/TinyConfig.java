@@ -178,7 +178,7 @@ public abstract class TinyConfig {
 
     public void loadValuesFromJson() {
         try {
-            gson.fromJson(Files.newBufferedReader(Path.of("d")), configClass);
+            gson.fromJson(Files.newBufferedReader(getJsonFilePath()), configClass);
         } catch (Exception e) {
             write(modid);
         }
